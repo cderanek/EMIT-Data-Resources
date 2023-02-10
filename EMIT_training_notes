@@ -1,0 +1,13 @@
+VISIONS (https://earth.jpl.nasa.gov/emit/data/data-portal/coverage-and-forecasts/)
+- info tab contains metadata for the selected scene 
+  - contains link to download NETCDF files for desired product (L1, L2, etc)
+  - need to be logged into EarthData portal, yellow tiles won't have downlad links because they arent ready yet
+- time function on bottom right can be used to filter by dates
+- on the left "coverage" tab, can filter by solar zenith angle, elevation, etc
+
+
+TUTORIAL: Exploring EMIT L2A Reflectance
+- gamma adjustment can brigthen overall image (function provided)
+
+
+NOTE: Should look into CuPy (https://cupy.dev/)
